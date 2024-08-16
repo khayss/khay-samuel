@@ -1,0 +1,139 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Boiler Plate Rust Backend",
+      "description": "A boilerplate backend built with Rust and Postgres as database. It includes authentication, authorization, and CRUD operations bordering of users, products, organisations, etc.",
+      "link": {
+        "deployed": false,
+        "deployLink": ""
+      },
+      "github": "https://github.com/khayss/boilerplate-rust-backend",
+      "stack": [
+        "Axum (Web framework)",
+        "Postgres (Database)",
+        "SQLX (Database Query Builder"
+      ],
+      "languages": ["rust"]
+    },
+    {
+      "id": 2,
+      "title": "AG Sufre",
+      "description": "A shoe store website built with NextJS",
+      "link": {
+        "deployed": true,
+        "deployLink": "https://hng-stage-3-frontend.vercel.app/"
+      },
+      "github": "https://github.com/khayss/hng_stage_3_frontend",
+      "stack": ["NextJS (React Framework)", "TailwindCSS (Styling)"],
+      "languages": ["typescript, javascript"]
+    },
+    {
+      "id": 3,
+      "title": "boilerplate User and Organization Management Backend",
+      "description": "A boilerplate user management backend built with ExpressJS",
+      "link": {
+        "deployed": true,
+        "deployLink": "https://hng-backend-track-stage-two.vercel.app/"
+      },
+      "github": "https://github.com/khayss/hng_backend_track_stage_two",
+      "stack": ["ExpressJS (Web framework)", "Postgres (Database)"],
+      "languages": ["javascript"]
+    },
+    {
+      "id": 4,
+      "title": "Food Ordering App Frontend",
+      "description": "A food ordering app frontend built with ReactJS",
+      "link": {
+        "deployed": true,
+        "deployLink": "https://food-app-front-end-sand.vercel.app/"
+      },
+      "github": "https://github.com/khayss/food-app-front-end",
+      "stack": ["ReactJS (Frontend Framework)", "TailwindCSS (Styling)"],
+      "languages": ["javascript"]
+    },
+    {
+      "id": 5,
+      "title": "Food Ordering App Backend",
+      "description": "A food ordering app backend built with ExpressJS",
+      "link": {
+        "deployed": false,
+        "deployLink": ""
+      },
+      "github": "https://github.com/khayss/food-ordering-app-backend",
+      "stack": ["ExpressJS (Web framework)", "MongoDB (Database)"],
+      "languages": ["javascript"]
+    },
+    {
+      "id": 6,
+      "title": "A basic e-commerce website with dummy data",
+      "description": "A basic e-commerce website with dummy data built with ReactJS",
+      "link": {
+        "deployed": true,
+        "deployLink": "https://all-cart-shopping-site.vercel.app/"
+      },
+      "github": "https://github.com/khayss/all-cart-shopping-site",
+      "stack": ["ReactJS (Frontend Framework)", "TailwindCSS (Styling)"],
+      "languages": ["javascript"]
+    },
+    {
+      "id": 7,
+      "title": "SuperFund",
+      "description": "A decentralized crowdfunding platform built with Solidity and ReactJS",
+      "link": {
+        "deployed": false,
+        "deployLink": ""
+      },
+      "github": "https://github.com/khayss/SuperFund",
+      "stack": ["Ethereum (Smart Contract)", "ReactJS (Frontend Framework)"],
+      "languages": ["javascript, solidity"]
+    }
+  ],
+  "contributions": [
+    {
+      "id": 1,
+      "title": "HNG Boilerplate NestJS",
+      "description": "A Boilerplate backend built with NestJS and Postgres as database. It includes authentication, authorization, and CRUD operations bordering of users, products, organisations, etc.",
+      "link": "",
+      "github": "https://github.com/hngprojects/hng_boilerplate_nestjs",
+      "organisation": "HNG Tech",
+      "stack": [
+        "NestJS (Web framework)",
+        "Postgres (Database)",
+        "TypeORM (Database Query Builder)"
+      ],
+      "languages": ["typescript"]
+    },
+    {
+      "id": 2,
+      "title": "HNG Boilerplate NextJS",
+      "description": "A Boilerplate frontend built with NextJS",
+      "link": "",
+      "github": "https://github.com/hngprojects/hng_boilerplate_nextjs",
+      "organisation": "HNG Tech",
+      "stack": ["NextJS (React Framework)", "TailwindCSS (Styling)"],
+      "languages": ["typescript"]
+    },
+    {
+      "id": 3,
+      "title": "Rust Workshop",
+      "description": "A workshop on Rust programming language",
+      "link": "",
+      "github": "https://github.com/BlockheaderWeb3-Community/rust-workshop",
+      "organisation": "Blockheader Web3 Community",
+      "stack": ["Rust (Programming Language)"],
+      "languages": ["rust"]
+    }
+  ],
+  "jobs": [],
+  "conferences": [
+    {
+      "id": 1,
+      "name": "",
+      "description": "",
+      "date": "Date",
+      "link": "",
+      "image": ""
+    }
+  ]
+}

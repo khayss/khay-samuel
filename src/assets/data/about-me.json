@@ -1,0 +1,56 @@
+{
+  "name": "Kufre Samuel",
+  "about": [
+    "I'm a blockchain / fullstack web developer.",
+    "I have keen interest in Web3 technology and decentralized systems.",
+    "I'm always eager to learn and improve my skills."
+  ],
+  "ability": [
+    "Work with Linux",
+    "Write Rust, Solidity, Typescript and JavaScript",
+    "Use NextJS, NestJS, Foundry, HardHat, Axum",
+    "Use Git, Github",
+    "Code with VS Code"
+  ],
+  "image": "profile.png",
+  "socials": [
+    {
+      "id": 1,
+      "name": "GitHub",
+      "logo": "FaGithub",
+      "link": "https://github.com/khayss"
+    },
+    {
+      "id": 2,
+      "name": "LinkedIn",
+      "logo": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/kufre-samuel-5949701b8/"
+    },
+    {
+      "id": 3,
+      "name": "Email",
+      "logo": "SiGmail",
+      "link": "mailto:forendals@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "X (Twitter)",
+      "logo": "FaXTwitter",
+      "link": "https://www.x.com/khufrayss"
+    },
+
+    {
+      "id": 5,
+      "name": "Telegram",
+      "logo": "FaTelegramPlane",
+      "link": "https://t.me/khufrayss"
+    },
+    {
+      "id": 6,
+      "name": "Discord",
+      "logo": "FaDiscord",
+      "link": "https://discord.com/users/663157355424251944"
+    }
+  ],
+  "education": {}
+}
