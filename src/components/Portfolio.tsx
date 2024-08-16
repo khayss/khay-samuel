@@ -17,7 +17,7 @@ function PortfolioDetails() {
   return (
     <div className="w-full flex flex-col gap-2">
       <h2 className="text-xl font-medium dark:text-verdigris">Portfolio</h2>
-      <div className="w-full flex flex-col items-center md:items-start gap-2">
+      <div className="w-full flex flex-col items-start gap-2">
         {data.portfolio.map((_portfolio) => (
           <div key={_portfolio.id} className="grid gap-x-2 gap-y-1">
             <div className="pt-1 col-start-1 col-end-2">
@@ -69,7 +69,7 @@ function ContributionDetails() {
       <h2 className="text-xl font-medium dark:text-verdigris">
         Contributions
       </h2>
-      <div className="w-full flex flex-col items-center md:items-start gap-2">
+      <div className="w-full flex flex-col items-start gap-2">
         {data.contributions.map((_contribution) => (
           <div key={_contribution.id} className="grid gap-x-2 gap-y-1">
             <div className="pt-1 col-start-1 col-end-2">
